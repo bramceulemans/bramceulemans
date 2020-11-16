@@ -12,11 +12,8 @@ Some of the skills in my toolbox are:
 - :memo: Software Development
   - Java with professional experience in JavaEE, Spring Boot and Vaadin
   - PHP with specialized knowledge of Laravel
-- :notebook: Database
-  - MySQL
-  - PostgreSQL
-  - SQLite
-- :cloud: Infrastructure
+- :notebook: Relational databases, specifically MySQL, PostgreSQL and SQLite
+- :cloud: DevOps and Infrastructure
   - Google Cloud Platform
   - GitLab CI/CD
 
