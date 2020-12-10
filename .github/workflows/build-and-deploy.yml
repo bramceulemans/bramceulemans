@@ -21,7 +21,7 @@ jobs:
         run: yarn install
       - name: Build website
         run: yarn build
-      - name: Deploy website
-        env:
-          NODE_DEBUG: gh-pages
-        run: yarn deploy
+#      - name: Deploy website
+#        env:
+#          NODE_DEBUG: gh-pages
+#        run: yarn deploy
