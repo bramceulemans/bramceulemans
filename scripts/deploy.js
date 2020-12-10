@@ -12,6 +12,7 @@ const run = async () => {
         branch: 'gh-pages',
         message: message,
         history: false,
+        push: true,
     })
 }
 
