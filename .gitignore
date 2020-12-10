@@ -1,0 +1,8 @@
+build/
+node_modules/
+
+# JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws

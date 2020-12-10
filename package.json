@@ -1,0 +1,20 @@
+{
+  "name": "bramceulemans",
+  "version": "1.0.0",
+  "description": "Build script for my personal website",
+  "main": "scripts/build.js",
+  "repository": "https://github.com/bramceulemans/bramceulemans.git",
+  "author": "Bram Ceulemans <bramceulemans@me.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "@types/markdown-it": "^10.0.3",
+    "@types/mustache": "^4.1.0",
+    "markdown-it": "^12.0.3",
+    "markdown-it-emoji": "^2.0.0",
+    "mustache": "^4.1.0"
+  }
+}
