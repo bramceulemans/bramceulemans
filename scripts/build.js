@@ -46,4 +46,4 @@ const run = async () => {
 
 run()
     .then(() => console.info('Build successful.'))
-    .catch(e => console.log(e))
+    .catch(e => console.error(e))

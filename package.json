@@ -8,11 +8,15 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "node scripts/build.js"
+    "build": "node scripts/build.js",
+    "deploy": "node scripts/deploy.js"
   },
   "dependencies": {
+    "@types/gh-pages": "^3.0.0",
     "@types/markdown-it": "^10.0.3",
+    "@types/markdown-it-emoji": "^1.4.0",
     "@types/mustache": "^4.1.0",
+    "gh-pages": "^3.1.0",
     "markdown-it": "^12.0.3",
     "markdown-it-emoji": "^2.0.0",
     "mustache": "^4.1.0"
