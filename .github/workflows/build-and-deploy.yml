@@ -22,4 +22,6 @@ jobs:
       - name: Build website
         run: yarn build
       - name: Deploy website
+        env:
+          NODE_DEBUG: gh-pages
         run: yarn deploy
